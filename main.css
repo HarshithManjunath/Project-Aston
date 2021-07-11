@@ -1,0 +1,192 @@
+:root{
+    --amrgreen :#10584A;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.row{
+    margin: 0;
+}
+
+.img-fluid{
+    padding: 0;
+}
+
+.mainnav {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.hero {
+    margin: 0;
+}
+
+/* .navlogo{
+    width:25%;
+} */
+
+
+/* a.navlinks:hover{
+    color: red;
+}
+
+.nav-link:hover {
+    color: red;
+} */
+
+h1 { 
+    font-family: "Segoe UI"; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: small-caps;  
+    line-height: 26.4px; 
+} 
+h3 { 
+    font-family: 'Noto Sans TC', sans-serif; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 15.4px; 
+} 
+p { 
+    font-family: "Segoe UI"; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: small-caps; 
+    line-height: 20px; 
+} 
+blockquote { 
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    font-size: 21px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 30px; 
+} 
+pre { 
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    font-size: 13px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 18.5714px; 
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    background-color:white;
+}
+
+
+
+/* .main-title{
+    position:absolute;  
+    top: 60%;
+    left: 50%;
+    font-size: 50px;
+    font-weight:300;    
+    color: yellowgreen;
+    font-family: Segoe UI, Candara, Calibri, Arial, sans-serif;
+} */
+
+
+.stats{
+    text-align: center;
+    margin: 60px 0 60px 0;
+    color:rgb(228, 226, 226);
+}
+
+.stats h2{
+    font-weight: lighter;
+}
+.stats p{
+    color:yellowgreen ;
+}
+.box1{
+    background-color: #023C2E;
+}
+
+.box2{
+    background-color: #003428;
+}
+.box3{
+    background-color: #002E23;
+}
+.box4{
+    background-color: #01221B;
+}
+
+.info{
+    height: auto;
+    background-color: #eaf0ee;
+    text-align: left;
+    padding: 0;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.info h2{
+    margin: 150px 25px 10px 25px;
+}
+
+.info p{
+    font-size:large;
+    font-weight: 200;
+    margin: 0 15px 0 25px;
+}
+
+.infoimg{
+    padding: 0;
+}
+
+/* .driver{
+    margin-top: 5px;
+} */
+
+.driver p{
+    margin: 0;
+    font-size: 20px;
+}
+
+.driverinfo{
+    text-align: center;
+    margin: 100px 0 0 0;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 200;
+
+}
+
+.seb,
+.lance{
+    padding: 0;
+}
+
+.footer {
+    align-content: center;
+    background-color: #2e302e;
+    height: 300px;
+}
+
+.footer img{
+    margin: 10px 0 0 638px;
+    height: auto;
+    width: auto;
+}
+
+.footer h3{
+    text-align: center;
+    color: #7f807f;
+    font-size: x-large;
+}
+
+.footer p{
+    text-align: center;
+    margin-top: 55px;
+    color: #7f807f;
+    font-size: small;
+}

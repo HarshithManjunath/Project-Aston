@@ -1,0 +1,51 @@
+.hidden{
+    display: none;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+
+.mainnav {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.heading{
+    padding-top: 50px;
+    text-align: center; 
+    font-size: 3rem;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.history{
+    padding: 80px 90px 80px 90px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer {
+    align-content: center;
+    background-color: #2e302e;
+    height: 300px;
+}
+
+.footer img{
+    margin: 10px 0 0 638px;
+    height: auto;
+    width: auto;
+}
+
+.footer h3{
+    text-align: center;
+    color: #7f807f;
+    font-size: x-large;
+}
+
+.footer p{
+    text-align: center;
+    margin-top: 55px;
+    color: #7f807f;
+    font-size: small;
+}
